@@ -1,0 +1,11 @@
+Model Information:
+* title:	Dinasour Fighting Scene
+* source:	https://sketchfab.com/3d-models/dinasour-fighting-scene-706b729bdc4c41e981edb48fd5ae4667
+* author:	sheikhirfan_ (https://sketchfab.com/sheikhirfan_)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Dinasour Fighting Scene" (https://sketchfab.com/3d-models/dinasour-fighting-scene-706b729bdc4c41e981edb48fd5ae4667) by sheikhirfan_ (https://sketchfab.com/sheikhirfan_) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
